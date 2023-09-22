@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "ws": "^8.5.0",
+    "wscat": "^5.2.0",
+    "wss": "^3.3.4"
+  }
+}
